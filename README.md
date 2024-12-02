@@ -1,4 +1,3 @@
-Here is the English translation of the content:
 
 ```markdown
 # Yurtiçi Kargo API Integration
